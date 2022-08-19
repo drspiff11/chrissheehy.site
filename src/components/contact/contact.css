@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+.contact{
+    background-color: #e8e3c6;
+    padding: 10%;
+    padding-top: 0%;
+    text-align: center;
+
+}
+
+.contact form{
+    font-family: 'JetBrains Mono', monospace;
+    
+    
+}
+
+.contact input{
+    
+}
+
+.contact label {
+    font-family: 'Righteous', cursive;
+    padding-right: 3%;
+    padding-left: 2%;
+    padding-top: 5%;
+}
+
+.contact textarea {
+    margin-top: 5%;
+}
+
+#submit{
+    background-color: #114c08;
+    border-radius: 25px;
+    padding: 1%;
+    color: #f2e181;
+    border: none;
+    margin-top: 5%;
+}

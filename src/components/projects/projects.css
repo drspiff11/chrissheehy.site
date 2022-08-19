@@ -1,0 +1,17 @@
+.projects{
+    background-color: #336d2b;
+    color: #f2e181;
+}
+
+.projects article{
+    background-color: #21551a;
+    border-radius: 15px;
+}
+
+.projects-caption{
+
+}
+
+.accordion {
+    background-color: #336d2b;
+}
